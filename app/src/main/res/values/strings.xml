@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColorMeCrazy</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="choose_color">choose color</string>
+    <string name="pick_color" />
+    <string name="change_color">change color</string>
+</resources>
